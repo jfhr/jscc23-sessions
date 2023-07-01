@@ -30,6 +30,8 @@ There can also be one-on-ones between engineers.
 Be aware: Sometimes what people say they need and what they actually need
 are two different things.
 
+If you have more frequent one-on-ones, people will share more.
+
 ## Have retros and reviews
 
 Get everyone at the table:
@@ -100,6 +102,10 @@ Good feedback is a skill that can be trained.
 - Be honest
 - Be authentic
 
+## Ask for feedback for yourself
+
+Some people won't give you feedback unless you ask.
+
 ## Give your best team members more responsibility
 
 But not more work!
@@ -108,6 +114,29 @@ But not more work!
 
 Your team members *will* emulate do. Don't act in ways you don't want your team to copy.
 
+## Hire people who fit your culture
+
+If you're a startup, hire people who *want* to work at a startup.
+
+Hire a diverse group of people.
+
+## Ask thoughtful interview questions
+
+Figure out what you *really* need the candidate to do!
+
+Also: is the person someone who only finds problems, or someone who finds solutions?
+
+## Don't be toxic
+
+Sometimes you have to make unpopular decisions.
+Tell your team why. Don't blame other people.
+
+If someone is doing something wrong, tell them *why* it's wrong + *how* to do better
+
+## Manage yourself
+
+Sometimes it helps to talk to someone from outside.
+
 ---
 
 ## Further reading:
@@ -115,6 +144,7 @@ Your team members *will* emulate do. Don't act in ways you don't want your team 
 - Radical Candor: Be A Kick-Ass Boss Without Losing Your Humanity <https://en.wikipedia.org/wiki/Special:BookSources/978-1-250-10350-5>
 - Emily Anhalt – The 7 Traits of an Emotionally Fit Leader <https://www.youtube.com/watch?v=VEmWkdBco00>
 - The Manager's Path <https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-1491973899>
+- Sarah Drasner: Engineering Management for the Rest of Us <https://en.wikipedia.org/wiki/Special:BookSources?isbn=+%E2%80%8E+979-8986769318>
 - books by Lara Hogan
 - books by Jürgen Appelo
   - particularly: Moving Motivators <https://management30.com/practice/moving-motivators/>
